@@ -12,7 +12,7 @@ This project is a depiction of an engaging career page website that connects tal
 
 - User-friendly interface to browse and apply for job opportunities
 - Real-time updates on job postings
-- Secure authentication and user data management
+
 
 ## Setup Instructions
 
