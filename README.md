@@ -4,7 +4,7 @@ This project is a depiction of an engaging career page website that connects tal
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, Bootstrap
 - **Backend & Server:** Python Flask
 - **Database:** MySQL
 
